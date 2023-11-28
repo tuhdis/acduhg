@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "",
-  "repository": "",
+  "website": "https://github.com/tuhdis/acduhg",
+  "repository": "https://github.com/tuhdis/acduhg",
   "stack": "container"
  }
